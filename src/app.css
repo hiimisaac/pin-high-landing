@@ -318,6 +318,10 @@ h3 { font-size: clamp(1.03rem, 2.2vw, 1.24rem); line-height: 1.2; }
   gap: 10px;
 }
 
+.section-head .eyebrow {
+  margin-bottom: 6px;
+}
+
 .section-head.center {
   text-align: center;
   justify-items: center;
