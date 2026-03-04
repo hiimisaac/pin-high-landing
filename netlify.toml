@@ -11,8 +11,3 @@
   from = "/terms-and-conditions"
   to = "/terms-and-conditions.html"
   status = 301
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
