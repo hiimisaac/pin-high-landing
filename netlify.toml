@@ -13,6 +13,11 @@
   status = 200
 
 [[redirects]]
+  from = "/support"
+  to = "/support.html"
+  status = 200
+
+[[redirects]]
   from = "/privacy-policy.html"
   to = "/privacy-policy"
   status = 301
@@ -20,4 +25,9 @@
 [[redirects]]
   from = "/terms-and-conditions.html"
   to = "/terms-and-conditions"
+  status = 301
+
+[[redirects]]
+  from = "/support.html"
+  to = "/support"
   status = 301

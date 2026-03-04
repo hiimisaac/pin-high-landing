@@ -193,6 +193,7 @@
         <a href="/#download">Download</a>
       </nav>
       <div class="legal-links">
+        <a href="/support">Support</a>
         <a href="/privacy-policy">Privacy Policy</a>
         <a href="/terms-and-conditions">Terms &amp; Conditions</a>
       </div>
